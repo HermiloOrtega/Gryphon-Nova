@@ -1,65 +1,88 @@
-# 📦 Gryphon Nova
+# **Gryphon Nova**  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+## 🧭 Overview  
+**Gryphon Nova** is a visually immersive, single-page real estate website developed with **Webflow** to promote a futuristic residential development. The site was designed with a cosmic, galaxy-themed aesthetic to reflect innovation, luxury, and lifestyle elevation.
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+---
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+## 💡 Idea & Concept  
+This project aimed to break conventional real estate design by delivering an **interactive and artistic web experience**. The project integrated rich visuals, smooth animations, and modern interaction patterns to attract design-conscious investors and buyers.
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+---
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+## ✨ Features & Functionality  
+- Full-screen, scroll-driven navigation  
+- Animated section transitions and parallax effects  
+- Interactive floor plan navigation  
+- Sticky navigation and menu highlight  
+- "Get Inspired" section for curated living experience  
+- High-resolution imagery and brand videos  
+- Lead generation forms tied to CRM workflows  
+- Fully responsive mobile experience  
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+---
 
-- **Installation Steps:** 
+## ⚙️ Tech Stack  
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-- **Deployment Environment:** 
+---
 
-- **Access:** 
+## 🏗 Architecture & Design  
+- Built using Webflow’s no-code CMS interface  
+- Galaxy-inspired UI with modern grid layouts  
+- Custom animations using Webflow Interactions  
+- Section-based design for fast storytelling  
+- SEO metadata & semantic markup included  
+- Optimized images and lazy loading  
 
-> **Note:** 
+---
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+## 🚀 Installation & Setup  
+1. Webflow project created under Epic Inspired’s workspace  
+2. Sections built in canvas using visual layout editor  
+3. Custom code injected where needed (forms, tracking)  
+4. Connected to domain and hosted via Webflow CDN  
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+---
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+## 🧑‍💻 My Role & Contributions  
+- 🌌 Designed visual architecture and component layout  
+- 🛠️ Built responsive Webflow structure  
+- 🎯 Connected forms and lead tracking  
+- 🧼 Ensured cross-device compatibility  
+- 🧪 QA tested interactions and scroll animations  
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+---
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+## 🧗 Challenges & Learnings  
+- Pushing Webflow’s animation capabilities to support high-concept UI  
+- Managing performance while using rich media  
+- Translating abstract Figma designs into responsive components  
+- Delivering pixel-perfect design with branding accuracy  
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+---
 
-## 🔗 Additional Resources
-- **Documentation:** 
+## 📈 Future Enhancements  
+- Add embedded interactive 3D models of the tower  
+- Launch multilingual support  
+- Embed virtual tour experiences via iframe  
 
-- **Related Projects:** 
+---
 
-- **Live Demo Link:** 
+## 🤝 Contributing  
+Built as part of Epic Inspired’s development team. Not open for public contribution.
+
+---
+
+## 🪪 License  
+All content is owned by the client. Reuse or redistribution is not permitted without written approval.
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired Project Dashboard](../GitHubDashboard.md)  
+- [Related Project: Clarendon Heights](../ClarendonHeights.md)  
+- [Related Project: Ovation New Westminster](../OvationNewWestminster.md)  
